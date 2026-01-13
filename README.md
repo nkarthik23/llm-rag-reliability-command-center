@@ -269,7 +269,3 @@ MIT License - Built for educational and hackathon purposes
 ## 👤 Author
 
 Built for Google Cloud AI Partner Catalyst Hackathon 2024
-
----
-
-**🎯 Ready to win? Run the demo and show off real LLM observability!**
